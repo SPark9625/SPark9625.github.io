@@ -1,7 +1,8 @@
 ---
 layout         : default
+title          : Home
+description    : Welcome to my blog!
 ---
 
-# Header 1
-
-## Header 2
+I'm a student at Yonsei University, South Korea.
+I occasionally post ideas, summaries, etc.
