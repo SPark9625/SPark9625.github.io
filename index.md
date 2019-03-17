@@ -1,6 +1,6 @@
 ---
-title          : Semin's GitHub Pages Home Page
-description    : Description area
+title          : index title
+description    : index description
 layout         : default
 ---
 
