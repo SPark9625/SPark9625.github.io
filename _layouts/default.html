@@ -12,12 +12,10 @@
   <body>
     <header class="page-header" role="banner">
       <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/categories">Categories</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/cv">CV</a></li>
-        </ul>
+        <a href="/" class="btn">Home</a>
+        <a href="/categories" class="btn">Categories</a>
+        <a href="/about" class="btn">About</a>
+        <a href="/cv" class="btn">CV</a>
       </nav>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
