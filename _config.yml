@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Title is overrated"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Semin Park"
+description              : "Occasionally writing about stuff I feel like."
 url                      : "https://github.com/SPark9625/SPark9625.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
