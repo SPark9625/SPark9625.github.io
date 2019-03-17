@@ -1,4 +1,5 @@
 ---
+title: Semin's GitHub Pages Home Page
 layout: default
 ---
 
