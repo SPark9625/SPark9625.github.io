@@ -1,6 +1,4 @@
 ---
-title          : index title
-description    : index description
 layout         : default
 ---
 
